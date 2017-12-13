@@ -1,0 +1,1027 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"bandit\tmodule"
+			],
+			[
+				"run",
+				"run_exp_op"
+			],
+			[
+				"band",
+				"bandits\tstatement"
+			],
+			[
+				"cum",
+				"cum_avg"
+			],
+			[
+				"rand",
+				"random\tstatement"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"s",
+				"std"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"ho",
+				"ho_liks\tstatement"
+			],
+			[
+				"fixed",
+				"fixed_params"
+			],
+			[
+				"eigvals",
+				"eigvals\tfunction"
+			],
+			[
+				"nll",
+				"nll_samples\tstatement"
+			],
+			[
+				"M",
+				"METRICS\tclass"
+			],
+			[
+				"con",
+				"config_dict0\tstatement"
+			],
+			[
+				"init",
+				"init_type\tparam"
+			],
+			[
+				"init_y",
+				"init_type"
+			],
+			[
+				"ini",
+				"init_type\tparam"
+			],
+			[
+				"aep",
+				"aep_models\tmodule"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"x",
+				"xlabel\tfunction"
+			],
+			[
+				"return",
+				"return_cost"
+			],
+			[
+				"cont",
+				"cont_opt"
+			],
+			[
+				"conf",
+				"conf_dict\tparam"
+			],
+			[
+				"defa",
+				"default_conf\tstatement"
+			],
+			[
+				"op",
+				"optimize_aep\tfunction"
+			],
+			[
+				"re",
+				"reinit_hypers\tparam"
+			],
+			[
+				"ret",
+				"return_cost"
+			],
+			[
+				"def",
+				"default_conf\tstatement"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"save",
+				"save_df\tfunction"
+			],
+			[
+				"pl",
+				"plot_GP"
+			],
+			[
+				"N",
+				"N_train"
+			],
+			[
+				"inter",
+				"intervals\tparam"
+			],
+			[
+				"no",
+				"norm_out\tparam"
+			],
+			[
+				"ke",
+				"key_suffix\tparam"
+			],
+			[
+				"l",
+				"l_rate\tstatement"
+			],
+			[
+				"ma",
+				"max_it\tparam"
+			],
+			[
+				"ge",
+				"get_hypers\tfunction"
+			],
+			[
+				"df",
+				"df_name"
+			],
+			[
+				"va",
+				"var_u\tstatement"
+			],
+			[
+				"test",
+				"testing\tmodule"
+			],
+			[
+				"X",
+				"X_train\tstatement"
+			],
+			[
+				"plot",
+				"plot_DGP"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"file",
+				"file_name\tstatement"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"n_",
+				"n_results"
+			],
+			[
+				"res",
+				"result_list\tstatement"
+			],
+			[
+				"mse",
+				"mse_aep\tstatement"
+			],
+			[
+				"data_",
+				"data_idx\tparam"
+			],
+			[
+				"train",
+				"training_size\tparam"
+			],
+			[
+				"data",
+				"data_file\tstatement"
+			],
+			[
+				"id",
+				"idx\tparam"
+			],
+			[
+				"n",
+				"n_results\tstatement"
+			],
+			[
+				"score",
+				"score_gp\tstatement"
+			],
+			[
+				"li",
+				"list_indx\tstatement"
+			],
+			[
+				"ch",
+				"choice\tfunction"
+			],
+			[
+				"D",
+				"DGP_sample_data"
+			],
+			[
+				"trac",
+				"set_trace\tfunction"
+			],
+			[
+				"inpu",
+				"input_dim\tparam"
+			],
+			[
+				"argm",
+				"argmin\tfunction"
+			],
+			[
+				"in",
+				"input_dim\tstatement"
+			],
+			[
+				"de",
+				"DeepGPPredictionGrad"
+			],
+			[
+				"pr",
+				"Produces"
+			],
+			[
+				"MLSAL",
+				"MLSALT8"
+			],
+			[
+				"ML",
+				"MLSALT8"
+			],
+			[
+				"nul",
+				"null_score\tparam"
+			],
+			[
+				"act",
+				"action_cost\tstatement"
+			],
+			[
+				"ins",
+				"ins_pen\tstatement"
+			],
+			[
+				"query",
+				"queryfile"
+			],
+			[
+				"index",
+				"indexfile"
+			],
+			[
+				"get",
+				"get_kwqueries"
+			],
+			[
+				"S",
+				"STO\tmodule"
+			],
+			[
+				"quer",
+				"query_funct\tfunction"
+			],
+			[
+				"format",
+				"format_dict\tfunction"
+			],
+			[
+				"forma",
+				"format_results\tfunction"
+			],
+			[
+				"fst_f",
+				"fst_file"
+			],
+			[
+				"fs",
+				"fst_file"
+			],
+			[
+				"grammar",
+				"grammar_list"
+			],
+			[
+				"tbval",
+				"tbval_list"
+			],
+			[
+				"tva",
+				"tval_list"
+			],
+			[
+				"hmm",
+				"hmm_list"
+			],
+			[
+				"g",
+				"gmmfolder"
+			],
+			[
+				"envs",
+				"envsflag"
+			],
+			[
+				"ban",
+				"bankfolder"
+			],
+			[
+				"for",
+				"folder"
+			],
+			[
+				"roval",
+				"roval_list"
+			],
+			[
+				"resu",
+				"result_list"
+			],
+			[
+				"ex",
+				"exp_list"
+			],
+			[
+				"te",
+				"TEMP2\tstatement"
+			],
+			[
+				"Te",
+				"TEMP2\tstatement"
+			],
+			[
+				"opti",
+				"option2"
+			],
+			[
+				"r",
+				"roval"
+			],
+			[
+				"Mono",
+				"monophone"
+			],
+			[
+				"en",
+				"env_list"
+			],
+			[
+				"_Z",
+				"_D_Z"
+			],
+			[
+				"opto",
+				"option2"
+			],
+			[
+				"opt",
+				"option1"
+			],
+			[
+				"env",
+				"envsflag"
+			],
+			[
+				"er",
+				"error_handling"
+			],
+			[
+				"exc",
+				"exc_info\tfunction"
+			],
+			[
+				"iter",
+				"iter_step\tstatement"
+			],
+			[
+				"update",
+				"update_screen"
+			],
+			[
+				"grid",
+				"grid\tparam"
+			],
+			[
+				"live",
+				"live_neighbours\tstatement"
+			],
+			[
+				"L",
+				"LinearRegression\timport"
+			],
+			[
+				"forecast_",
+				"forecast_out\tstatement"
+			],
+			[
+				"fore",
+				"forecast_col\tstatement"
+			],
+			[
+				"mind",
+				"mindist_A"
+			],
+			[
+				"ite",
+				"itemB"
+			],
+			[
+				"nu",
+				"numpy"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"sho",
+				"shows"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"sh",
+				"showsList"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Sublime-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Sublime-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++_new.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_new.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++_new.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"uni",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"pyth",
+				"Build With: PYTHON"
+			],
+			[
+				"pap",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"enal",
+				"Package Control: Enable Package"
+			],
+			[
+				"pytho",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"python ",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"packed ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: Python3"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"side bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pyhton ",
+				"CodeFormatter: Format as Python Syntax"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sudo import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sergiopascualdiaz/Documents/MATLAB/MLSALT1_practical/logistic_regression.py",
+		"/Users/sergiopascualdiaz/Documents/MATLAB/MLSALT1_practical/utils.py",
+		"/Users/sergiopascualdiaz/Desktop/spascual.github.io/index.html",
+		"/Users/sergiopascualdiaz/Desktop/untitled.py",
+		"/Users/sergiopascualdiaz/Desktop/Job finding/cv_dic_17/cv_tech.tex",
+		"/Users/sergiopascualdiaz/Library/Application Support/Sublime Text 3/Packages/User/AutoSpell.sublime-settings",
+		"/Users/sergiopascualdiaz/Desktop/CVS_2/cv_tech.tex",
+		"/Users/sergiopascualdiaz/Desktop/CV/cv_palantir.tex",
+		"/Users/sergiopascualdiaz/Documents/MPhil/Practicals/MLSALT7/writeup/report.tex",
+		"/Users/sergiopascualdiaz/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/sergiopascualdiaz/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/sergiopascualdiaz/Desktop/CV/cv.tex",
+		"/Users/sergiopascualdiaz/Desktop/hola.tex",
+		"/Users/sergiopascualdiaz/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sergiopascualdiaz/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/sergiopascualdiaz/gym_example.py",
+		"/Users/sergiopascualdiaz/Library/Application Support/Sublime Text 3/Packages/User/C++_new.sublime-build",
+		"/helloworld.cpp",
+		"/Users/sergiopascualdiaz/mlsalt-project/geepee/geepee/base_models.py",
+		"/Users/sergiopascualdiaz/Desktop/back-ups/mlsalt-code_week0/scripts_week0/dgp_sampler.py",
+		"/Users/sergiopascualdiaz/mlsalt-project/sftp-config.json",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy-3.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy5.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy4.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/fixed_zu5.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy1.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy2.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy3.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/regression_exp.py",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/scores/greedy-1.csv",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/dgp_sampler.py",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/data_utils.py",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/untitled",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/baseline_models.py",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/context.py",
+		"/Users/sergiopascualdiaz/mlsalt-project/thesis_work/run_exp.sh",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/aep_models.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/greedy.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/__init__.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/score_reading.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/aep_config.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/baseline_models.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/data_utils.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/plots.py",
+		"/Users/sergiopascualdiaz/.ssh/google_compute_engine.pub.",
+		"/Users/sergiopascualdiaz/.ssh/google_compute_engine.pub",
+		"/Users/sergiopascualdiaz/.ssh/config",
+		"/Users/sergiopascualdiaz/.bash_profile",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/testing.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/kernels.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/ep_models.py",
+		"/Users/sergiopascualdiaz/Downloads/business-card-landscape.pub",
+		"/Users/sergiopascualdiaz/mlsalt-code/code/myenv/lib/python2.7/site-packages/tensorflow/include/tensorflow/core/protobuf/device_properties.pb.h",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_step/DGP_350.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_5/DGP_25.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/step_dgpr.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_4/DGP_50.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_2/DGP_50.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_2/DGP_25.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_2/DGP_500_25_[2]_adam.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_2/DGP_500_25_[2]_L-BFGS-B.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_1/DGP_25.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_3/DGP_25.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_3/DGP_50.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_4/DGP_25.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_3/DGP_500_25_[2]_L-BFGS-B.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_3/DGP_750_25_[2]_L-BFGS-B.csv",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/exp_DGP_samples/DGP_3/DGP_1250_25_[2]_L-BFGS-B.csv",
+		"/Users/sergiopascualdiaz/Downloads/figlegend_demo.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/utils.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/testing",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/deepbo/models/dgpr.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/examples/dgpr_aep_examples.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/deepbo/__init__.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/context.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/step_dgpr.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/base_models.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/dgp_sampler.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/REG_DGP_sampling.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/dgpr.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/utils.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/LOG_week2-2/note.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/draw_dgp.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/result_DGPS/DGPS_2.txt",
+		"/Users/sergiopascualdiaz/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/80C36CF6-04A7-4755-B116-57BEA269E200/dgpr_aep_sergio.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/run_mse_ll.sh",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/examples/deepbo_1D_grid.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/LOG_week2/result_DGPS/DGPS_1.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/LOG8.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/LOG_week1/log.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/result_DGPS/DGPS_7.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/thesis_work/result_DGPS/DGPS_1.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/thesis_work/result_DGPS/DGPS_2.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/thesis_work/result_DGPS/DGPS_0.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/geepee/aep_models.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/exp/run_mse_ll.sh",
+		"/Users/sergiopascualdiaz/mlsalt-code/exp/gpr_scratch.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/run_mse_ll.sh",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/examples/__init__.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/examples/draw_dgp.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/deepbo/optimisers/base_optimiser.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/geepee/vfe_models.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/examples/deepactive_1D_lbfgs.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/tests/context.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/tests/test_dgp_pred_grads_1D.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/deepbo/optimisers/lbfgs_search.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/examples/deepgp_1D.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/test.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/deepgp/FITC_network.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/deepbo/examples/context.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/test.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/sftp-config.json",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee/text.txt",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee-master/geepee/kernels.py",
+		"/Users/sergiopascualdiaz/mlsalt-code/geepee-master/sandbox/plot_propagation.py",
+		"/Users/sergiopascualdiaz/python_book/try_except.py",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT Project/Thesis/README.md",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/bpe.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/word.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/hifst.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/question3.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/syn_bpe.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/syn_nmt.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/lattices.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/bleu.sh",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/syn_mnt.sj",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT8/lattices.py",
+		"/Users/sergiopascualdiaz/Desktop/MLSALT11 Speech/kws361.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"output.latextools":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/hola.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"remove"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

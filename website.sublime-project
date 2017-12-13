@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "scss"
+		},
+		{
+			"path": "vendor"
+		},
+		{
+			"path": "css"
+		}
+	]
+}
